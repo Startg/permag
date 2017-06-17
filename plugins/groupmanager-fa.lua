@@ -2995,6 +2995,8 @@ _Send Msg To All Groups_
 ⚙*!autoleave enable*
 ⚙*!autoleave disable*
 _set Auto leave_
+💀کانال ما :@SBT_\\RoBoT
+💫سازنده :@sudo\\star
 
 _You Can Use_ *[!/#]* _To Run The Commands_
 _Change the language to farsi : !setlang fa_
@@ -3014,9 +3016,12 @@ text = [[
 قفل ها
 🔇برای مشاهده دستورات ممنوعیت دستور زیر را ارسال کنید
 ممنوع
+💢برای مشاهده دستورات فان helpfun/را ارسال کنید
 
 👽آگاهی از آنلاین بودن ربات
 انلاینی
+💀کانال ما :@SBT_\\RoBoT
+💫سازنده :@sudo\\star
 
 ➖➖➖➖➖
 در حال حاضر زبان ربات فارسی میباشد برای تغییر زبان دستور زیر را ارسال کنید
@@ -3077,6 +3082,8 @@ text2 = [[
 🔒*قفل فحش*
 🔓*باز کردن فحش*
 〰〰〰〰〰
+💀کانال ما :@SBT_\\RoBoT
+💫سازنده :@sudo\\star
 در زدن دستورات به فاصله حروف دقت کنید
 ...
 ]]
@@ -3153,6 +3160,8 @@ text3 = [[
 🔇*!mt 0 1*
 🔊*!unmt*
 〰〰〰〰〰
+💀کانال ما :@SBT_\\RoBoT
+💫سازنده :@sudo\\star
 در زدن دستورات به فاصله حروف دقت کنید
 ...
 ]]
@@ -3259,6 +3268,8 @@ text4 = [[
 ⚙*!autoleave enable*
 ⚙*!autoleave disable*
 💬 تنظیم خارج شدن ربات
+💀کانال ما :@SBT_\\RoBoT
+💫سازنده :@sudo\\star
 ...
 در زدن دستورات به فاصله حروف دقت کنید
 ]]
@@ -3267,7 +3278,7 @@ end
 
 if matches[1] == "انلاینی" and is_mod(msg) then
 text5 = [[
-😎آنلاینم عزیز و حواسم به گروه هست 
+😎اره انلاینم😍
 ]]
 return text5 
 end
@@ -3442,7 +3453,3 @@ run=run,
 pre_process = pre_process
 }
 -- کد های پایین در ربات نشان داده نمیشوند
--- http://permag.ir
--- @permag_ir
--- @permag_bots
--- @permag

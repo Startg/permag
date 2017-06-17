@@ -570,7 +570,7 @@ end
 if matches[1] == 'sudolist' and is_sudo(msg) then
 return sudolist(msg)
     end
-if matches[1] == 'permag' then
+if matches[1] == 'star' then
 return tdcli.sendMessage(msg.chat_id_, msg.id_, 1, _config.info_text, 1, 'html')
     end
 if matches[1] == 'adminlist' and is_admin(msg) then
@@ -613,7 +613,7 @@ patterns = {
 "^[!/#](admindem) (.*)$",
 "^[!/#](leave)$",
 "^[!/#](autoleave) (.*)$", 
-"^[!/#](permag)$",
+"^[!/#](star)$",
 "^[!/#](creategroup) (.*)$",
 "^[!/#](createsuper) (.*)$",
 "^[!/#](tosuper)$",
@@ -629,7 +629,3 @@ run = run
 }
 
 -- کد های پایین در ربات نشان داده نمیشوند
--- http://permag.ir
--- @permag_ir
--- @permag_bots
--- @permag

@@ -87,26 +87,27 @@ function create_config( )
     "expiretime",
     "mute-time",
     "del",
-	"lock-fosh"
+	"lock-fosh",
+	"fun"
 	
  },
-    sudo_users = {123456789},
+    sudo_users = {328476482},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》permag.ir v3
+    info_text = [[》star tg v1
 
 🔰Our channel :
-》@permag_bots《
+》@SBT_ROBOT《
 
 🔰Our channel2 :
-》@permag_ir《
+》@SKYTEAM《
 
 🔰Our channel3 :
-》@permag《
+》@skyteam《
 
 🔰Our website :
-》http://permag.ir
+》http://snowweb.ir
 ]],
   }
   serialize_to_file(config, './data/config.lua')

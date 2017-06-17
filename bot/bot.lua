@@ -89,7 +89,8 @@ function create_config( )
     "del",
 	"lock-fosh",
 	"fun",
-    "serverinfo"
+    "serverinfo",
+    "support"
 	
  },
     sudo_users = {328476482},

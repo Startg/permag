@@ -2995,6 +2995,8 @@ _Send Msg To All Groups_
 ⚙*!autoleave enable*
 ⚙*!autoleave disable*
 _set Auto leave_
+〰〰〰〰〰
+⚙channel : @SBT_RoBoT
 
 _You Can Use_ *[!/#]* _To Run The Commands_
 ]]
@@ -3077,6 +3079,7 @@ text2 = [[
 🔒*!lock fosh*
 🔓*!unlock fosh*
 〰〰〰〰〰
+📣کانال ما : @SBT_RoBoT
 ...
 ]]
 return text2
@@ -3152,6 +3155,7 @@ text3 = [[
 🔇*!mt 0 1*
 🔊*!unmt*
 〰〰〰〰〰
+📣کانال ما : @SBT_RoBoT
 ...
 ]]
 return text3
@@ -3260,6 +3264,8 @@ text4 = [[
 ⚙*!autoleave enable*
 ⚙*!autoleave disable*
 💬 تنظیم خارج شدن ربات
+〰〰〰〰〰
+📣کانال ما : @SBT_RoBoT
 ...
 ]]
 return text4

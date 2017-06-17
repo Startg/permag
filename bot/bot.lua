@@ -88,7 +88,8 @@ function create_config( )
     "mute-time",
     "del",
 	"lock-fosh",
-	"fun"
+	"fun",
+    "serverinfo"
 	
  },
     sudo_users = {328476482},

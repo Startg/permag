@@ -1,4 +1,4 @@
 while true; do
-   ./megareborn.sh
+   ./permag.sh
    sleep 2
   done

@@ -3278,54 +3278,6 @@ text5 = [[
 return text5 
 end
 
-if matches[1] == "راهنما فان" and is_mod(msg) then
-text6 = [[
-_ƃʇ ʎʞs Fun Help Commands:_
-
-*!time*
-_Get time in a sticker_
-
-*!short* `[link]`
-_Make short url_
-
-*!voice* `[text]`
-_Convert text to voice_
-
-*!tr* `[lang] [word]`
-_Translates FA to EN and EN to FA_
-_Example:_
-*!tr fa hi*
-
-*!sticker* `[word]`
-_Convert text to sticker_
-
-*!photo* `[word]`
-_Convert text to photo_
-
-*!azan* `[city]`
-_Get Azan time for your city_
-
-*!calc* `[number]`
-Calculator
-
-*!praytime* `[city]`
-_Get Patent (Pray Time)_
-
-*!tosticker* `[reply]`
-_Convert photo to sticker_
-
-*!tophoto* `[reply]`
-_Convert text to photo_
-
-*!weather* `[city]`
-_Get weather_
-
-_You can use_ *[!/#]* _at the beginning of commands._
-
-*Good luck ;)*]]
-return text6
-end
-
 
 --------------------- Welcome -----------------------
 	if matches[1] == "welcome" and is_mod(msg) then

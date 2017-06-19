@@ -88,7 +88,6 @@ function create_config( )
     "mute-time",
     "del",
 	"lock-fosh",
-	"fun",
     "serverinfo",
     "support",
     "monshi"

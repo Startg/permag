@@ -3280,8 +3280,8 @@ end
 
 
 --------------------- Welcome -----------------------
-	if matches[1] == "welcome" and is_mod(msg) then
-		if matches[2] == "enable" then
+	if matches[1] == "ولکام" and is_mod(msg) then
+		if matches[2] == "نصب" then
 			welcome = data[tostring(chat)]['settings']['welcome']
 			if welcome == "yes" then
        if not lang then
@@ -3300,7 +3300,7 @@ end
 			end
 		end
 		
-		if matches[2] == "disable" then
+		if matches[2] == "حذف" then
 			welcome = data[tostring(chat)]['settings']['welcome']
 			if welcome == "no" then
       if not lang then
@@ -3319,7 +3319,7 @@ end
 			end
 		end
 	end
-	if matches[1] == "setwelcome" and matches[2] and is_mod(msg) then
+	if matches[1] == "تنظیم ولکام" and matches[2] and is_mod(msg) then
 		data[tostring(chat)]['setwelcome'] = matches[2]
 	    save_data(_config.moderation.data, data)
        if not lang then
@@ -3342,11 +3342,12 @@ local lang = redis:get(hash)
      welcome = administration[arg.chat_id]['setwelcome']
       else
      if not lang then
-     welcome = "*Welcome Dude*"
+     welcome = "*Welcome*"
     elseif lang then
-     welcome = "_خوش آمدید_"
+     welcome = "_خوشامدی_"
         end
      end
+-----------------------------------------
  if administration[tostring(arg.chat_id)]['rules'] then
 rules = administration[arg.chat_id]['rules']
 else
@@ -3397,6 +3398,8 @@ patterns ={
 "^[!/#](انلاینی)$",
 "^[!/#](ممنوع)$",
 "^[!/#](قفل)$",
+"^(تنظیم ولکام) (.*)",
+"^(ولکام) (.*)$",
 "^[!/#](id)$",
 "^[!/#](id) (.*)$",
 "^[!/#](pin)$",
@@ -3439,8 +3442,6 @@ patterns ={
 "^[#!/](filterlist)$",
 "^([https?://w]*.?t.me/joinchat/%S+)$",
 "^([https?://w]*.?telegram.me/joinchat/%S+)$",
-"^[!/#](setwelcome) (.*)",
-"^[!/#](welcome) (.*)$"
 
 },
 run=run,

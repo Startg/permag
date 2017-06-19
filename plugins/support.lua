@@ -1,6 +1,6 @@
 --start by @Tele_Sudo
 local datebase = {
-   "برای خرید ربات ضد اسپم star وجه مورد نظر رو پرداخت کنید✅درگاه های پرداخت https://zarinp.al/@hamedasadzadeh",
+   "✅درگاه  پرداخت آنلاین  تیم اسنو ✅https://me.pay.ir/snowweb                شما میتوانید تراکنش مالی امن‌رو با درگاه پی آی ار تجربه کنید :)",
   }
 local function run(msg, matches) 
 return datebase[math.random(#datebase)]
@@ -8,6 +8,7 @@ end
 return {
   patterns = {
     "^[/#+×!$](support)",
+"^(درگاه)$"
   },
   run = run
 }

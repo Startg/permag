@@ -90,7 +90,8 @@ function create_config( )
 	"lock-fosh",
 	"fun",
     "serverinfo",
-    "support"
+    "support",
+    "monshi"
 	
  },
     sudo_users = {328476482},

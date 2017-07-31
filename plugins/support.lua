@@ -1,6 +1,6 @@
 --start by @Tele_Sudo
 local datebase = {
-   "✅درگاه  پرداخت آنلاین  تیم اسنو ✅https://me.pay.ir/snowweb                شما میتوانید تراکنش مالی امن‌رو با درگاه پی آی ار تجربه کنید :)",
+   "✅✅درگاه پرداخت\nHttp://onemizban.ir/dpo\n",
   }
 local function run(msg, matches) 
 return datebase[math.random(#datebase)]

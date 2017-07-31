@@ -3077,9 +3077,9 @@ text2 = [[
 -قفل فحش
 -باز کردن فحش
 ➖➖➖➖➖➖➖➖➖➖
-گروه طراحی اسنو :
-✳web : www.snowweb.ir
-✳channel : @snow\_ir
+گروه طراحی یک میزبان :
+✳web : www.onemizban.ir
+✳channel : @onemizban\_market
 ...
 ]]
 return text2
@@ -3156,9 +3156,9 @@ text3 = [[
 🔊!unmt_
 
 ➖➖➖➖➖➖➖➖➖➖
-گروه طراحی اسنو :
-♻*web*: www.snowweb.ir
-♻*channel*: @snow\_ir
+گروه طراحی یک میزبان :
+♻*web*: www.onemizban.ir
+♻*channel*: @onemizban\_market
 ...
 ]]
 return text3
@@ -3265,8 +3265,8 @@ text4 = [[
 ⚙*!autoleave disable* 
 💬 تنظیم خارج شدن ربات
 
-💬*web*: www.snowweb.ir
-♻*channel*: @snow\_ir
+💬*web*: www.onemizban.ir
+♻*channel*: @onemizban\_market
 ...
 در زدن دستورات به فاصله حروف دقت کنید
 ]]

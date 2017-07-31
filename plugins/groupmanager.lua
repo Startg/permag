@@ -3079,7 +3079,7 @@ text2 = [[
 🔒*!lock fosh*
 🔓*!unlock fosh*
 〰〰〰〰〰
-📣کانال ما : @SBT_RoBoT
+📣کانال ما : @onemizban\_market
 ...
 ]]
 return text2
@@ -3155,7 +3155,7 @@ text3 = [[
 🔇*!mt 0 1*
 🔊*!unmt*
 〰〰〰〰〰
-📣کانال ما : @SBT_RoBoT
+📣کانال ما : @onemizban\_market
 ...
 ]]
 return text3
@@ -3265,7 +3265,7 @@ text4 = [[
 ⚙*!autoleave disable*
 💬 تنظیم خارج شدن ربات
 〰〰〰〰〰
-📣کانال ما : @SBT_RoBoT
+📣کانال ما : @onemizban\_market
 ...
 ]]
 return text4

@@ -2996,7 +2996,7 @@ _Send Msg To All Groups_
 ⚙*!autoleave disable*
 _set Auto leave_
 〰〰〰〰〰
-⚙channel : @SBT_RoBoT
+⚙channel : @onemizban\_market
 
 _You Can Use_ *[!/#]* _To Run The Commands_
 ]]
@@ -3013,6 +3013,9 @@ text = [[
 
 🔐برای مشاهده دستورات قفلی دستور زیر را ارسال کنید
 #قفل
+
+🔐برای مشاهده دستورات سرگرم کننده دستور زیر را ارسال کنید
+#راهنما فان
 
 🔇برای مشاهده دستورات ممنوعیت دستور زیر را ارسال کنید
 #ممنوع

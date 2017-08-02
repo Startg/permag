@@ -93,7 +93,7 @@ function create_config( )
     "monshi"
 	
  },
-    sudo_users = {328476482},
+    sudo_users = {392643293],
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},

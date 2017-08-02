@@ -17,7 +17,6 @@ local notify = lgi.require('Notify')
 
 notify.init ("Telegram updates")
 
-
 chats = {}
 
 
@@ -93,7 +92,7 @@ function create_config( )
     "monshi"
 	
  },
-    sudo_users = {392643293],
+    sudo_users = {392643293},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},

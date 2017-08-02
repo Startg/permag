@@ -100,16 +100,16 @@ function create_config( )
     info_text = [[》star tg v1
 
 🔰Our channel :
-》@SBT_ROBOT《
+》@onemizban_market《
 
 🔰Our channel2 :
-》@SKYTEAM《
+》@onemizban_market《
 
 🔰Our channel3 :
 》@skyteam《
 
 🔰Our website :
-》http://snowweb.ir
+》http://onemizban.ir
 ]],
   }
   serialize_to_file(config, './data/config.lua')

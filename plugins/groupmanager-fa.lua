@@ -5,7 +5,7 @@ local lang = redis:get(hash)
    if not lang then
         return '_You are not bot admin_'
 else
-     return 'شما مدیر ربات نمیباشید'
+     return 'شما مدیر ربات نمیباشید😁'
     end
 end
     local data = load_data(_config.moderation.data)

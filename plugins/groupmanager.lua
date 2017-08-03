@@ -2996,7 +2996,7 @@ _Send Msg To All Groups_
 ⚙*!autoleave disable*
 _set Auto leave_
 〰〰〰〰〰
-⚙channel : @onemizban\_market
+⚙channel : @OnAlfa
 
 _You Can Use_ *[!/#]* _To Run The Commands_
 ]]
@@ -3027,7 +3027,7 @@ text = [[
 💢اعضای محترم گروه میتوانند با ارسال دستور 《خریدربات》این ربات را سفارش دهند .
 
 🔷 web : www.onemizban.ir
-🔷 channel : @onemizban\_market]]
+🔷 channel : @OnAlfa]]
 end
 return text
 end
@@ -3082,7 +3082,7 @@ text2 = [[
 🔒*!lock fosh*
 🔓*!unlock fosh*
 〰〰〰〰〰
-📣کانال ما : @onemizban\_market
+📣کانال ما : @OnAlfa
 ...
 ]]
 return text2
@@ -3158,7 +3158,7 @@ text3 = [[
 🔇*!mt 0 1*
 🔊*!unmt*
 〰〰〰〰〰
-📣کانال ما : @onemizban\_market
+📣کانال ما : @OnAlfa
 ...
 ]]
 return text3
@@ -3268,7 +3268,7 @@ text4 = [[
 ⚙*!autoleave disable*
 💬 تنظیم خارج شدن ربات
 〰〰〰〰〰
-📣کانال ما : @onemizban\_market
+📣کانال ما : @OnAlfa
 ...
 ]]
 return text4

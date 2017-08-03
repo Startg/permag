@@ -3004,7 +3004,7 @@ _Change the language to farsi : !setlang fa_
 elseif lang then
 text = [[
 
-📝O N E M I Z B A N 
+📝A L F A  B O T
 ➖➖➖➖➖➖➖➖➖➖
 راهنمای کار با ربات 
 
@@ -3174,7 +3174,7 @@ text99 = [[
 Http://onemizban.ir/bot
 
 و یا به کانال زیر مراجعه کنید  :
-@OnAlfa]]
+Https://t.me/OnAlfa]]
 return text99
 end
 if matches[1] == "مدیریت" and is_mod(msg) then

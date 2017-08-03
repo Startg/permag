@@ -3004,7 +3004,7 @@ _You Can Use_ *[!/#]* _To Run The Commands_
 elseif lang then
 text = [[
 
- O N E M I Z B A N 
+ A L F A  B O T
 ➖➖➖➖➖➖➖➖➖➖
 راهنمای کار با ربات 
 

@@ -2995,7 +2995,7 @@ _Send Msg To All Groups_
 ⚙*!autoleave enable*
 ⚙*!autoleave disable*
 _set Auto leave_
-⚙channel : @onemizban\_market
+⚙channel : @OnAlfa
 
 _You Can Use_ *[!/#]* _To Run The Commands_
 _Change the language to farsi : !setlang fa_
@@ -3027,7 +3027,7 @@ text = [[
 💢اعضای محترم گروه میتوانند با ارسال دستور 《خریدربات》این ربات را سفارش دهند .
 
 🔷 web : www.onemizban.ir
-🔷 channel : @onemizban\_market]]
+🔷 channel : @OnAlfa]]
 end
 return text
 end
@@ -3083,7 +3083,7 @@ text2 = [[
 ➖➖➖➖➖➖➖➖➖➖
 گروه طراحی یک میزبان :
 ✳web : www.onemizban.ir
-✳channel : @onemizban\_market
+✳channel : @OnAlfa
 ...
 ]]
 return text2
@@ -3162,7 +3162,7 @@ text3 = [[
 ➖➖➖➖➖➖➖➖➖➖
 گروه طراحی یک میزبان :
 ♻*web*: www.onemizban.ir
-♻*channel*: @onemizban\_market
+♻*channel*: @OnAlfa
 ...
 ]]
 return text3
@@ -3174,7 +3174,7 @@ text99 = [[
 Http://onemizban.ir/bot
 
 و یا به کانال زیر مراجعه کنید  :
-@onemizban\_market]]
+@OnAlfa]]
 return text99
 end
 if matches[1] == "مدیریت" and is_mod(msg) then
@@ -3279,7 +3279,7 @@ text4 = [[
 💬 تنظیم خارج شدن ربات
 
 💬*web*: www.onemizban.ir
-♻*channel*: @onemizban\_market
+♻*channel*: @OnAlfa
 ...
 در زدن دستورات به فاصله حروف دقت کنید
 ]]

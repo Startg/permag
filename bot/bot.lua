@@ -102,7 +102,7 @@ function create_config( )
 》@onemizban_market《
 
 🔰Our channel2 :
-》@onemizban_market《
+》@onalfa《
 
 🔰Our channel3 :
 》@skyteam《
